@@ -1,10 +1,10 @@
 ### Problems with IMU
 
-The MPU 9150 with RTIMU library (python) is drifing a lot.
+1. The MPU 9150 with RTIMU library (python) is drifing a lot when used in RPI3
 
 ### Approach
 
-1. Test a another IMU, with arduino using (https://kingtidesailing.blogspot.com/2015/09/how-to-setup-mpu-9150-9-axis.html)
+1. Test another IMU with arduino using (https://kingtidesailing.blogspot.com/2015/09/how-to-setup-mpu-9150-9-axis.html) to check if that is the same case here too.
 
 #### Reference
 1. https://arduino.stackexchange.com/questions/31552/mpu-6050-angle-drift
