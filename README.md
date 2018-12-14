@@ -4,7 +4,7 @@
 
 #### Approach
 
-1. Test another IMU with arduino using (https://kingtidesailing.blogspot.com/2015/09/how-to-setup-mpu-9150-9-axis.html) to check if that is the same case here too.  (Paste the libraries and check the BAUD RATE)
+1. Test another IMU with arduino using (https://kingtidesailing.blogspot.com/2015/09/how-to-setup-mpu-9150-9-axis.html) to check if that is the same case here too.  (Download the libraries and check the BAUD RATE)
 
 #### Reference
 1. https://arduino.stackexchange.com/questions/31552/mpu-6050-angle-drift
