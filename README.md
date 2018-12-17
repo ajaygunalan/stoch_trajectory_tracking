@@ -27,3 +27,6 @@
 3. https://github.com/kriswiner/MPU6050/wiki/Simple-and-Effective-Magnetometer-Calibration
 4. https://www.instructables.com/id/Simple-Manual-Magnetometer-Calibration/
 5. I2c Reference (https://www.raspberrypi-spy.co.uk/2014/11/enabling-the-i2c-interface-on-the-raspberry-pi/)
+6. https://github.com/vmayoral/bb_mpu9150/blob/master/src/linux-mpu9150/README.md
+7. https://github.com/mrbichel/linux-mpu9150
+8. https://github.com/vmayoral/bb_mpu9150
