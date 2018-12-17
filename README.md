@@ -19,3 +19,9 @@
 1. https://arduino.stackexchange.com/questions/31552/mpu-6050-angle-drift
 2. https://www.novatel.com/assets/Documents/Bulletins/APN064.pdf
 3. "A robust and easy to implement method for IMU calibration without external equipments"
+
+  Added on 17/12/2018 (dd/mm/yyyy)
+4. https://github.com/kriswiner/MPU6050/wiki/Affordable-9-DoF-Sensor-Fusion
+5. https://github.com/kriswiner/MPU9150
+6. https://github.com/kriswiner/MPU6050/wiki/Simple-and-Effective-Magnetometer-Calibration
+7. https://www.instructables.com/id/Simple-Manual-Magnetometer-Calibration/
