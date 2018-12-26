@@ -12,7 +12,11 @@
  
 #### Status
 
-1. Following this repo (https://github.com/blauret/RTIMU)
+1. Following this repo (https://github.com/blauret/RTIMU) 
+
+   a. RTIMU GUI for Calibration is cool...!
+   
+   b. **To Do** -> Check the Python interface values.
 
 #### Next
 
