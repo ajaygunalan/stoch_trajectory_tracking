@@ -12,7 +12,10 @@
 
 #### Next
 
-1. If it works then we have to calibrae with RPI3.
+1. To make sure the imu works with main code in Python so that we could interface the existing `stoch` libraries
+2. Estimation of x,y and orientation from IMU and UWB.
+3. Implementation of controls heuristics to follow a staright line.
+
 
 #### Questions
 
