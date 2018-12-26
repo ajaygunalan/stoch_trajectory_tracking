@@ -9,6 +9,10 @@
  2. Follow [this link](https://www.instructables.com/id/Simple-Manual-Magnetometer-Calibration/) for testing and calibration with RPI3. (Tutorial Not Clear -*Vague*)
  
  3. Works well with [this repo](https://github.com/mrbichel/linux-mpu9150)
+ 
+#### Status
+
+1. Following this repo (https://github.com/blauret/RTIMU)
 
 #### Next
 
@@ -53,3 +57,7 @@
 5. I2c Reference (https://www.raspberrypi-spy.co.uk/2014/11/enabling-the-i2c-interface-on-the-raspberry-pi/) (enable I2C on rpi3)
 6. https://github.com/vmayoral/bb_mpu9150/blob/master/src/linux-mpu9150/README.md (ROS Package)
 7. https://github.com/mrbichel/linux-mpu9150 (Proper C++ repo for MPU-9150)
+
+ Added on 26/12/2018 (dd/mm/yyyy)
+ 
+ 1. Integrated all in one package [BNO55](https://www.bosch-sensortec.com/bst/products/all_products/bno055)
