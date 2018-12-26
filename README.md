@@ -6,7 +6,9 @@
 
  1. Test another IMU with arduino using (https://kingtidesailing.blogspot.com/2015/09/how-to-setup-mpu-9150-9-axis.html) to check if that is the same case here too.  (Download the libraries and check the BAUD RATE)
 
- 2. Follow [this link](https://www.instructables.com/id/Simple-Manual-Magnetometer-Calibration/) for testing and calibration with RPI3. 
+ 2. Follow [this link](https://www.instructables.com/id/Simple-Manual-Magnetometer-Calibration/) for testing and calibration with RPI3. (Tutorial Not Clear -*Vague*)
+ 
+ 3. Works well with [this repo](https://github.com/mrbichel/linux-mpu9150)
 
 #### Next
 
@@ -31,6 +33,7 @@
 60: -- -- -- -- -- -- -- -- 68 -- -- -- -- -- -- -- 
 70: -- -- -- -- -- -- -- -- 
 ```
+2. Check if i2c is enabled by `dmesg | grep i2c`
 
 
 #### Reference
