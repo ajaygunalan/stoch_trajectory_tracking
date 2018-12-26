@@ -16,6 +16,22 @@
 
 1. Why IMU calibration is needed ?
 
+#### Tips
+
+1. Check if IMU is connected on I2C line by `i2cdetect -y 1` or `i2cdetect -y 0` . If you see a output like below, it's connected:
+
+```
+     0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f
+00:          -- -- -- -- -- -- -- -- -- -- -- -- -- 
+10: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+20: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+30: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+40: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+50: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+60: -- -- -- -- -- -- -- -- 68 -- -- -- -- -- -- -- 
+70: -- -- -- -- -- -- -- -- 
+```
+
 
 #### Reference
 1. https://arduino.stackexchange.com/questions/31552/mpu-6050-angle-drift
