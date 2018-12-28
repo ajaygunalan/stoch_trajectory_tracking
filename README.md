@@ -12,11 +12,17 @@
  
 #### Status
 
-1. Following this repo (https://github.com/blauret/RTIMU) 
+1. ~~Following this repo~~  (https://github.com/blauret/RTIMU) 
 
    a. RTIMU GUI for Calibration is cool...!
    
-   b. **To Do** -> Check the Python interface values.
+   b. On Hold -> Check the Python interface values.
+
+2. Follow this repo (https://kingtidesailing.blogspot.com/2016/02/how-to-setup-mpu-9250-on-raspberry-pi_25.html)
+
+   a. Seems easier
+   
+   
 
 #### Next
 
@@ -45,6 +51,10 @@
 70: -- -- -- -- -- -- -- -- 
 ```
 2. Check if i2c is enabled by `dmesg | grep i2c`
+
+3. Don't use I2C for distance more than foot.
+
+4. IMU is prone to interference by ferrous metal.
 
 
 #### Reference
