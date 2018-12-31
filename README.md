@@ -22,6 +22,10 @@
 
    a. Seems easier
    
+   b. cd `RTIMULib2/Linux/python/tests` and run `Fusion.py` its good enough. 
+   
+   c. run `RTIMULibCal` for calibration 
+   
    
 
 #### Next
