@@ -33,6 +33,9 @@
 1. To make sure the imu works with main code in Python so that we could interface the existing `stoch` libraries
 2. Estimation of x,y and orientation from IMU and UWB.
 3. Implementation of controls heuristics to follow a staright line.
+4. Smooth the turning with IMU
+5. Follow a curve
+6. Body Stabilisation 
 
 
 #### Questions
